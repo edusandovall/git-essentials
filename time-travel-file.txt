@@ -1,0 +1,1 @@
+This file is for testinig commits in a detached state and creating a new branch with this changes.
