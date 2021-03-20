@@ -1,3 +1,3 @@
 ## git-essentials
 
-This is an example to open a pull request (MASTER BRANCH)
+Modified to example a stash code
